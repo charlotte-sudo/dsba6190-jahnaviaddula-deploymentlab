@@ -95,7 +95,7 @@ resource "azurerm_mssql_database" "sdb" {
 
   tags = local.tags
 }
-   
-  
+
+
 
  
